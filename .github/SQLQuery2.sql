@@ -1,0 +1,1 @@
+select FirstName,LastName,MaritalStatus,Gender from CustName where YearlyIncome < 90000 and Gender = 'M' 
